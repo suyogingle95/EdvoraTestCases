@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T12:30:28 IST" name="Default suite" finished-at="2022-03-08T12:30:54 IST" duration-ms="25489">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T12:30:28 IST" name="Default test" finished-at="2022-03-08T12:30:54 IST" duration-ms="25489">
+      <class name="com.edvora.testCases.TS003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.edvora.testCases.TS003@f0c8a99]" started-at="2022-03-08T12:30:28 IST" name="setup" finished-at="2022-03-08T12:30:36 IST" duration-ms="7994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EditTest()[pri:0, instance:com.edvora.testCases.TS003@f0c8a99]" started-at="2022-03-08T12:30:36 IST" name="EditTest" finished-at="2022-03-08T12:30:54 IST" duration-ms="17347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditTest -->
+      </class> <!-- com.edvora.testCases.TS003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
